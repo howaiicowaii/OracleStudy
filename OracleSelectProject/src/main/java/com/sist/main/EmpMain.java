@@ -16,8 +16,9 @@ public class EmpMain {
       //dao.empRpadData();
       //dao.empSalInfoData();
 //      dao.empGroupData();
-      dao.empNotSubQuery();
+//      dao.empNotSubQuery();
 //      	dao.empSubQuery();
+      	
    }
    
 }

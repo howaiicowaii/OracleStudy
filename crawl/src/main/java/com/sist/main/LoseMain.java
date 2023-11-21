@@ -14,6 +14,7 @@ public class LoseMain {
 	      try {
 	         Document doc=Jsoup.connect("https://www.zooseyo.or.kr/zooseyo_or_kr.html?").get();
 	         Elements link=doc.select("td td table b a");
+//	         System.out.println(link);
 	         
 	         for(int i=0;i<link.size();i++) {
 //	            System.out.println("https://www.zooseyo.or.kr/"+link.get(i).attr("href"));

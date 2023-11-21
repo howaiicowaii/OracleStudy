@@ -67,7 +67,7 @@ public class LoseMain {
 //	            System.out.println(content.text());	            
 //	            String test=content.text();
 //	            System.out.println(test);
-	            
+	             
 	         }
 	      
 	      }catch(Exception ex) {}
